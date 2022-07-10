@@ -1,0 +1,15 @@
+{
+  "name": "personalpage",
+  "version": "1.0.0",
+  "description": "github personal page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  }
+}
